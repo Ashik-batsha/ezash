@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/unreal projects/ss/ezash/survival_game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OX/LW13IXYC8MK4O18NFT0OBH.uasset",
+				"E:/unreal projects/ss/ezash/survival_game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/M7/UDNRMFJY0UUP2JJ7PBOF7U.uasset"
+			]
+		}
+	]
+}
